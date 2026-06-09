@@ -77,11 +77,14 @@ Created two EC2 instances using the t3.micro instance type.
 
 ### Screenshot
 
-Insert Screenshot:
+
 
 <img width="940" height="315" alt="image" src="https://github.com/user-attachments/assets/53622a43-be6a-464d-a3bb-817864695928" />
 
+
+
 * <img width="940" height="416" alt="image" src="https://github.com/user-attachments/assets/ada605a2-1069-470f-8b07-e094b8d14597" />
+
 
 Ec2 -2
 
