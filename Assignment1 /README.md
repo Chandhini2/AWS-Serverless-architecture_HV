@@ -106,7 +106,6 @@ Created an IAM role to allow Lambda to interact with EC2 resources.
 
 ### Screenshot
 
-Insert Screenshot:
 
 <img width="940" height="438" alt="image" src="https://github.com/user-attachments/assets/7f15747f-ab65-4cb9-bc16-637e5aa0938b" />
 
