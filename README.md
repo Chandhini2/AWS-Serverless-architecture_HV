@@ -328,7 +328,8 @@ Insert Screenshot:
 
 * Missing Permission Error
 
-<img width="602" height="247" alt="image" src="https://github.com/user-attachments/assets/65fded92-48b2-42ab-828e-960ac06dd3a6" />
+<img width="940" height="433" alt="image" src="https://github.com/user-attachments/assets/10a726a0-a275-40a6-b8bd-e6e9e5fe542c" />
+
 
 * IAM Policy Attachment
 <img width="940" height="386" alt="image" src="https://github.com/user-attachments/assets/11118e73-b13c-4060-b045-ba841f8534a8" />
