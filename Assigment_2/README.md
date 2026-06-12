@@ -1,0 +1,1 @@
+# AWS-Serverless-architecture_HV - Assigment 2
